@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo awesome!
+echo super awesome!
